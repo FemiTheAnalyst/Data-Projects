@@ -1,2 +1,2 @@
 # Data-Projects
-# cohort analysis on customer retention
+cohort analysis on customer retention
