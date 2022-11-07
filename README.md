@@ -3,4 +3,4 @@ cohort analysis on customer retention
 
 ## Certificate of Completion
 
-![Certificate of Completion](./data_cert.jpg)
+![Certificate of Completion](./data_cert.JPG)
