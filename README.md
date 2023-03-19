@@ -11,7 +11,7 @@ The data analysis is documented in [Analyzing_Marketing_Campaigns_with_pandas.ip
 - Personalization A/B Test
 
 # Super Store Sales Analysis
-The data analysis is documented in [Analyzing_Sales_For_SuperStores.ipynb]
+The data analysis is documented in [Analyzing_Sales_For_SuperStores.ipynb](https://github.com/FemiTheAnalyst/Data-Projects/blob/6be6f5c50525a65efde233eb7a59b18bab964df9/Sales_Analysis/Superstore%20Sales%20Analysis.ipynb)
 
 This analyses sales data of Super Store mart and identify opportunities to boost business growth
 Super Store is a small retail business located in the United States. They sell Furniture, Office Supplies and Technology products and their customers are the mass Consumer, Corporate and Home Offices.
