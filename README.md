@@ -29,9 +29,18 @@ Our task is to analyse the sales data and identify weak areas and opportunities 
 - Which City has the Highest Number of Sales?
 
 # Debt Analysis
+The data analysis is documented in [Analyzing_international_debt.ipynb](https://github.com/FemiTheAnalyst/Data-Projects/blob/main/Debt%20Analysis%20with%20Sql/Analyze_International_Debt_Statistics.ipynb
+)
 The World Bank is an international financial institution that provides loans, grants, and technical assistance to developing countries for a variety of purposes, including poverty reduction, infrastructure development, and economic growth.
 
 In order to analyze international debt statistics, the World Bank collects data on external debt and other financial flows for over 200 countries and territories.
+our task  is to analyse the following
+-Finding the number of distinct countries
+-Finding out the distinct debt indicators
+-Total amount of debt owed by each countries
+-Average amount of debt across indicators
+-The highest amount of principal repayments
+-The most common debt indicator
 
 # Data-Projects
 cohort analysis on customer retention
