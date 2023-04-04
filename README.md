@@ -35,12 +35,13 @@ The World Bank is an international financial institution that provides loans, gr
 
 In order to analyze international debt statistics, the World Bank collects data on external debt and other financial flows for over 200 countries and territories.
 our task  is to analyse the following
--Finding the number of distinct countries
--Finding out the distinct debt indicators
--Total amount of debt owed by each countries
--Average amount of debt across indicators
--The highest amount of principal repayments
--The most common debt indicator
+
+- Finding the number of distinct countries
+- Finding out the distinct debt indicators
+- Total amount of debt owed by each countries
+- Average amount of debt across indicators
+- The highest amount of principal repayments
+- The most common debt indicator
 
 # Data-Projects
 cohort analysis on customer retention
