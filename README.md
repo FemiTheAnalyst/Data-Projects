@@ -28,6 +28,11 @@ Our task is to analyse the sales data and identify weak areas and opportunities 
 - Which Region is the Most Profitable?
 - Which City has the Highest Number of Sales?
 
+# Debt Analysis
+The World Bank is an international financial institution that provides loans, grants, and technical assistance to developing countries for a variety of purposes, including poverty reduction, infrastructure development, and economic growth.
+
+In order to analyze international debt statistics, the World Bank collects data on external debt and other financial flows for over 200 countries and territories.
+
 # Data-Projects
 cohort analysis on customer retention
 
