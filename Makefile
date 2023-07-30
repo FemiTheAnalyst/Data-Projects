@@ -1,7 +1,7 @@
 all: build
 
 build:
-	git add -A && git commit -m "file updates" && git push
+	git add -A && git commit -m "file updates extra" && git push
 
 clean:
 	rm -rf bin/*
